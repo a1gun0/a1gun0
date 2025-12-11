@@ -1,11 +1,14 @@
 <h1 align="center" style="font-size: 48px; color:#00FF99;">
-  Where offensive security becomes strategic insight
+  Offensive Expertise. Defensive Clarity.
 </h1>
 
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00FF99&center=true&vCenter=true&width=600&lines=DevSecOps+%7C+Red+Team+%7C+OSINT&repeat=true" alt="Typing Animation">
+  <img 
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=900&color=FF0000&center=true&vCenter=true&width=600&lines=Cybersecurity+Researcher;Adversary+Emulation" 
+    alt="Typing Animation">
 </p>
+
 
 <h2 style="color:#00FF99;">🥷 Who is <code>a1gun0</code>?</h2>
 
