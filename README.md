@@ -5,7 +5,7 @@
 
 <p align="center">
   <img 
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=900&color=FF0000&center=true&vCenter=true&width=600&lines=Cybersecurity+Researcher;Adversary+Emulation" 
+    src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=900&color=FF0000&center=true&vCenter=true&width=600&lines=Cybersecurity+Researcher;Adversary+Emulation" 
     alt="Typing Animation">
 </p>
 
